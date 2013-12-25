@@ -57,8 +57,8 @@
 		FC569705186AC0C7009F8C7B = {
 			isa = PBXGroup;
 			children = (
-				FC569749186AC1C9009F8C7B /* Class */,
-				FC56974A186AC1C9009F8C7B /* Libs */,
+				FC569750186AE249009F8C7B /* Class */,
+				FC569751186AE249009F8C7B /* Libs */,
 				FC569717186AC0C7009F8C7B /* NVCShow */,
 				FC569710186AC0C7009F8C7B /* Frameworks */,
 				FC56970F186AC0C7009F8C7B /* Products */,
@@ -111,14 +111,14 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		FC569749186AC1C9009F8C7B /* Class */ = {
+		FC569750186AE249009F8C7B /* Class */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			path = Class;
 			sourceTree = "<group>";
 		};
-		FC56974A186AC1C9009F8C7B /* Libs */ = {
+		FC569751186AE249009F8C7B /* Libs */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -348,6 +348,7 @@
 				FC569745186AC0C7009F8C7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
